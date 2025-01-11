@@ -33,10 +33,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Jason-Wu-DLC&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jason-Wu-DLC&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
 ### 🗂️ Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Wu-DLC&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
