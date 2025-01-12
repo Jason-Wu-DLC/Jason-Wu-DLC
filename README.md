@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Wu.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
+- 🔭 I’m currently writing code.
+- 🌱 I’m currently learning how to be a good developer.
 - 💬 Ask me about anything related to Java/Python/React/Spark.
 - 📫 How to reach me: Jasonwu940@outlook.com
 
